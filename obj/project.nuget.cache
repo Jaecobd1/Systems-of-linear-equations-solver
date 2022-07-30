@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMK64iOp6fz46rg9tNJOZMAPVx0hRDY3ImeZbIvJ4rtI2x15YDJKqunUKdJ8ifYRI4QJJhqep1AU0mUibAqV0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a\\Source\\Repos\\Systems of linear equations solver\\Systems of linear equations solver\\Systems of linear equations solver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

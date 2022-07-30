@@ -1,0 +1,20 @@
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\Systems of linear equations solver.exe
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\Systems of linear equations solver.deps.json
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\Systems of linear equations solver.runtimeconfig.json
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\Systems of linear equations solver.runtimeconfig.dev.json
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\Systems of linear equations solver.dll
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\Systems of linear equations solver.pdb
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.csproj.AssemblyReference.cache
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems_of_linear_equations_solver.Form1.resources
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.csproj.GenerateResource.cache
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.AssemblyInfoInputs.cache
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.AssemblyInfo.cs
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.csproj.CoreCompileInputs.cache
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.dll
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\refint\Systems of linear equations solver.dll
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.pdb
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.genruntimeconfig.cache
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\ref\Systems of linear equations solver.dll
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\a\Source\Repos\Systems of linear equations solver\Systems of linear equations solver\obj\Debug\net5.0-windows\Systems of linear equations solver.csproj.CopyComplete
